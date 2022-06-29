@@ -1,13 +1,8 @@
 {
   "name": "@backlight-dev/gq-ws.vue3-l5028ay8",
-  "version": "0.2.0",
-  "description": "",
+  "version": "0.0.1",
   "license": "MIT",
   "type": "module",
-  "homepage": "{{ homepage }}",
-  "scripts": {
-    "serve": "npx backlight@latest serve 7t4q7xUqN17IgSLtiTAp --open"
-  },
   "dependencies": {
     "vue": "^3.1.4"
   },
